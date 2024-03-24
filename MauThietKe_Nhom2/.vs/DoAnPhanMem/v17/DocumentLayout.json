@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13A5BFD6-28AA-4EE0-A3BC-B6C7267919B6}|DoAnPhanMem\\DoAnPhanMem.csproj|e:\\huflit\\project\\mauthietke_nhom2-master\\mauthietke_nhom2-master\\mauthietke_nhom2\\doanphanmem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A5BFD6-28AA-4EE0-A3BC-B6C7267919B6}|DoAnPhanMem\\DoAnPhanMem.csproj|solutionrelative:doanphanmem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A5BFD6-28AA-4EE0-A3BC-B6C7267919B6}|DoAnPhanMem\\DoAnPhanMem.csproj|e:\\huflit\\project\\mauthietke_nhom2-master\\mauthietke_nhom2-master\\mauthietke_nhom2\\doanphanmem\\design pattern\\template method\\templatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A5BFD6-28AA-4EE0-A3BC-B6C7267919B6}|DoAnPhanMem\\DoAnPhanMem.csproj|solutionrelative:doanphanmem\\design pattern\\template method\\templatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13A5BFD6-28AA-4EE0-A3BC-B6C7267919B6}|DoAnPhanMem\\DoAnPhanMem.csproj|e:\\huflit\\project\\mauthietke_nhom2-master\\mauthietke_nhom2-master\\mauthietke_nhom2\\doanphanmem\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13A5BFD6-28AA-4EE0-A3BC-B6C7267919B6}|DoAnPhanMem\\DoAnPhanMem.csproj|solutionrelative:doanphanmem\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DoAnPhanMem\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DoAnPhanMem\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemplateMethod.cs",
+              "DocumentMoniker": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Design Pattern\\Template Method\\TemplateMethod.cs",
+              "RelativeDocumentMoniker": "DoAnPhanMem\\Design Pattern\\Template Method\\TemplateMethod.cs",
+              "ToolTip": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Design Pattern\\Template Method\\TemplateMethod.cs",
+              "RelativeToolTip": "DoAnPhanMem\\Design Pattern\\Template Method\\TemplateMethod.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAkwL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:01.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Areas\\Admin\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "DoAnPhanMem\\Areas\\Admin\\Controllers\\CategoriesController.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BrandsController.cs",
               "DocumentMoniker": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Areas\\Admin\\Controllers\\BrandsController.cs",
               "RelativeDocumentMoniker": "DoAnPhanMem\\Areas\\Admin\\Controllers\\BrandsController.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ConcreteFlyweight.cs",
               "DocumentMoniker": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Design Pattern\\Flyweight\\ConcreteFlyweight.cs",
               "RelativeDocumentMoniker": "DoAnPhanMem\\Design Pattern\\Flyweight\\ConcreteFlyweight.cs",
@@ -71,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FlyweightFactory.cs",
               "DocumentMoniker": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Design Pattern\\Flyweight\\FlyweightFactory.cs",
               "RelativeDocumentMoniker": "DoAnPhanMem\\Design Pattern\\Flyweight\\FlyweightFactory.cs",
@@ -83,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IFlyweight.cs",
               "DocumentMoniker": "E:\\HUFLIT\\PROJECT\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2-master\\MauThietKe_Nhom2\\DoAnPhanMem\\Design Pattern\\Flyweight\\IFlyweight.cs",
               "RelativeDocumentMoniker": "DoAnPhanMem\\Design Pattern\\Flyweight\\IFlyweight.cs",

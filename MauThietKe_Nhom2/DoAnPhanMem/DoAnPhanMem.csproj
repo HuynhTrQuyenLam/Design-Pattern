@@ -180,7 +180,7 @@
     <Compile Include="Design Pattern\Flyweight\FlyweightFactory.cs" />
     <Compile Include="Design Pattern\Flyweight\IFlyweight.cs" />
     <Compile Include="Design Pattern\Iterator\IIterator.cs" />
-    <Compile Include="Design Pattern\Template Method\ProductControllerBase.cs" />
+    <Compile Include="Design Pattern\Template Method\TemplateMethod.cs" />
     <Compile Include="DTOs\ProductDTOs.cs" />
     <Compile Include="Factory Method\ProductFactory.cs" />
     <Compile Include="Global.asax.cs">
