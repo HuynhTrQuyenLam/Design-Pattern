@@ -1,0 +1,15 @@
+﻿@using DoAnPhanMem.Prototype
+
+<li>
+    <a href='@Model.Url' class='menu-link @Model.ActiveClass' style='color: @Model.TextColor;'>
+        <span class='menu-icon'>
+            <span class='svg-icon svg-icon-2'>
+                <svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'>
+                    @Html.Raw(Model.IconPath)
+                </svg>
+            </span>
+        </span>
+        @Model.Title
+    </a>
+</li>
+
